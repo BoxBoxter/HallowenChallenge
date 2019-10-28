@@ -1,0 +1,20 @@
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Haloween Challenge.exe.config
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Haloween Challenge.exe
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Haloween Challenge.pdb
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\BouncyCastle.Crypto.dll
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Dapper.dll
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Google.Protobuf.dll
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\MySql.Data.dll
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Renci.SshNet.dll
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Dapper.xml
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Google.Protobuf.xml
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\MySql.Data.xml
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\bin\Debug\Renci.SshNet.xml
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween Challenge.csprojAssemblyReference.cache
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween_Challenge.Form1.resources
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween_Challenge.Properties.Resources.resources
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween Challenge.csproj.GenerateResource.cache
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween Challenge.csproj.CopyComplete
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween Challenge.exe
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween Challenge.pdb
+Z:\Desenvolupament d'interficies\Examen\HallowenChallenge\Haloween Challenge\Haloween Challenge\obj\Debug\Haloween_Challenge.FilmDetails.resources
